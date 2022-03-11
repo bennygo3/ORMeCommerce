@@ -21,7 +21,7 @@ router.get('/:id', async (req, res) => {
     });
 
     if (!categoryData) {
-      res.status(404).json({ message: 'No cat-g id here' });
+      res.status(404).json({ message: 'No cat-g here' });
       return;
     }
     res.status(200).json(categoryData);
@@ -39,7 +39,7 @@ router.post('/', async (req, res) => {
   }
 });
   // update a category by its `id` value
-router.put('/:id', (req, res) => {
+router.put('/:id', async (req, res) => {
   try{
     const categoryData = await Category.update(req.body, {
       where: {
