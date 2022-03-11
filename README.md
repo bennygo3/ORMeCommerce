@@ -19,6 +19,7 @@ This application primarily used: **Express** for the routing, **mysql2** for the
 
 Below is a link to a video that will show the available operations:
 
+https://drive.google.com/file/d/15ZK7bSyQbCRk05PJepN0YNHf-Ll6JJ5E/view
 
 This picture shows some of the data being displayed in Insomnia:
 
