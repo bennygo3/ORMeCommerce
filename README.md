@@ -22,6 +22,7 @@ Below is a link to a video that will show the available operations:
 
 This picture shows some of the data being displayed in Insomnia:
 
+![ORM](https://user-images.githubusercontent.com/95048609/157806952-1c259fd2-548f-4dca-9a5a-54cef3195e84.jpeg)
 
 
 ## Contribute or questions
